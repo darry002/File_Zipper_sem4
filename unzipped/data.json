@@ -1,0 +1,19 @@
+[
+    [
+        null,
+        null
+    ],
+    [
+        {
+            "left": "e",
+            "right": {
+                "left": "h",
+                "right": {
+                    "left": "t",
+                    "right": "r"
+                }
+            }
+        },
+        5
+    ]
+]
